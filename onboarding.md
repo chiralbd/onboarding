@@ -17,7 +17,7 @@ Trainees in the CHIRAL will often receive opportunities to present their work at
 
 **Authorship:** Our team follows the [ICMJE's Uniform Requirements for Manuscripts Submitted to Biomedical Journals](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) defintions of the roles of authors and contributors to our manuscripts.
 
-**Ethics:** We expect CHIRAL members to be honest in scientific communications both within and outside the team. We expect that CHIRAL members will design experiments/study in a manner that minimizes both bias and self deception. We expect that CHIRAL members will keep agreements, be careful, and share their code and results openly with the scientific community. We expect that credit will be given where credit is due, including in scientific writing. Plagiarism is not tolerated. While a full enumeration of ethical considerations is outside of the scope of this document, CHIRAL provides a document that we recommend.
+**Ethics:** We expect CHIRAL members to be honest in scientific communications both within and outside the team. We expect that CHIRAL members will design experiments/study in a manner that minimizes both bias and self deception. We expect that CHIRAL members will keep agreements, be careful, and share their code and results openly with the scientific community. We expect that credit will be given where credit is due, including in scientific writing. Plagiarism is not tolerated. While a full enumeration of ethical considerations is outside of the scope of this document, CHIRAL provides a [document](https://github.com/chiralbd/onboarding/blob/main/CHIRAL%20Code%20of%20Conduct.pdf) that we recommend.
 
 In addition, please don't hesitate to raise any questions or concerns that you have at any point with the director.
 
@@ -33,7 +33,6 @@ In addition, please don't hesitate to raise any questions or concerns that you h
 **Accounts:** CHIRAL members must create and maintain accounts for:
 - GitHub (organization)
 - Slack (workspace)
-
 
 # Meetings
 **Scrum:** Our team's scrum process involves three components:
