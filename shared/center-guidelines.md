@@ -4,8 +4,10 @@ Table of Contents
   - [Expectations](#expectations)
 - [Appointment, Commitment & Affiliation](#appointment-commitment--affiliation)
   - [Nature of the Position](#nature-of-the-position)
+  - [Roles & Reporting Structure](#roles--reporting-structure)
   - [Minimum Commitment](#minimum-commitment)
   - [Mandatory Affiliation & Promotion](#mandatory-affiliation--promotion)
+  - [Exclusivity & Outside Commitments](#exclusivity--outside-commitments)
   - [Consequences of Non-Compliance](#consequences-of-non-compliance)
 - [Communication](#communication)
   - [General](#general)
@@ -87,6 +89,55 @@ non-negotiable expectations that come with it. These rules are strict by design.
   controls: **authorship, recommendation/experience letters, continued membership, and your
   CHIRAL affiliation.** These are earned, and they can be withheld or withdrawn.
 
+## Roles & Reporting Structure
+
+CHIRAL has a clear chain of responsibility. Every member knows whom they report to and what is
+expected of their role.
+
+```
+Head of Organization (Director)
+        │
+   Group Leader        ← leads a unit/group; reports to the Director
+        │
+ Research Assistant    ← reports to their Group Leader
+```
+
+### Head of Organization (Director)
+- Sets the center's overall direction, priorities, and standards.
+- Final authority on disputes, exceptions, authorship escalations, external sharing, and removals.
+- Approves outside-commitment requests and recommendation/experience letters.
+- Group Leaders report to the Director.
+
+### Group Leader
+Reports to the **Director**. Leads a unit or research group.
+- **Project leadership:** plans the group's projects, sets internal deadlines, and owns
+  delivery and quality for the group's work.
+- **Mentorship:** guides and supervises Research Assistants; supports their training and career
+  development.
+- **Code & research review:** ensures code review, reproducibility, and lab-book practices are
+  followed in the group; reviews/approves pull requests.
+- **Authorship & CRediT:** maintains the [CRediT table](/shared/publication-authorship-policy.md#5-contributor-roles-credit)
+  for the group's papers and proposes author order with the Director.
+- **Accountability:** logs participation lapses for their group and applies the
+  [accountability ladder](/shared/publication-authorship-policy.md#11-accountability--penalty-ladder),
+  escalating to the Director as needed.
+- **Onboarding:** ensures new RAs complete onboarding, sign the agreement, and meet the
+  affiliation/disclosure requirements.
+
+### Research Assistant (RA)
+Reports to their **Group Leader**.
+- **Research:** carries out assigned analyses and project work to the standards in these
+  guidelines and the [Good Practices](/shared/good-practices.md).
+- **Reproducibility & records:** writes reproducible, reviewed code; keeps a lab book; manages
+  data per the [Data Governance Policy](/shared/data-governance.md).
+- **Participation:** attends lab meetings, communicates on time, and contributes to manuscript
+  **revisions** per the [Publication & Authorship Policy](/shared/publication-authorship-policy.md).
+- **Escalation:** raises blockers, concerns, and ideas with the Group Leader; may go to the
+  Director if a concern involves the Group Leader.
+
+> Reporting lines define accountability, not permission to bypass anyone — concerns about
+> conduct or safety can always go directly to the Director.
+
 ## Minimum Commitment
 
 - By accepting a position you commit to a **minimum active term of 18 months (1.5 years)**;
@@ -117,6 +168,32 @@ Public ownership of your CHIRAL affiliation is **mandatory**, not optional:
 - When an employer or collaborator requires it, add the personal-opinions disclaimer described
   in the [Social Media Policy](/shared/social-media-policy.md).
 
+## Exclusivity & Outside Commitments
+
+CHIRAL members are expected to devote their research effort to CHIRAL and to avoid divided
+loyalty, conflicts of interest, and leakage of CHIRAL data or ideas to other groups.
+
+- **No concurrent membership in another research organization, lab, or group** while a CHIRAL
+  member, **except** with the **director's prior written approval**.
+- **Disclosure is mandatory.** Every member must disclose, in writing, all outside affiliations
+  and commitments — at onboarding, and within **7 days** of taking on any new one.
+- **Academic thesis exemption.** Research conducted for your **own degree (thesis/dissertation)**
+  at your university is **allowed and exempt** from the approval requirement — but it **must
+  still be disclosed**, and CHIRAL data/work may not be used in it without agreement and proper
+  attribution.
+- **Within the ecosystem is fine.** Holding a role at DeepBio Limited or DeepBio Academy is not
+  an "outside organization" — but disclose it so authorship and IP stay clear (see
+  [ECOSYSTEM.md](/ECOSYSTEM.md)).
+- **Failure to report an outside commitment is itself a punishable violation**, independent of
+  whether the commitment would have been approved. Concealment is treated as a breach of the
+  ethics expectations and, where CHIRAL data or work is involved, as misconduct under the
+  [Publication & Authorship Policy](/shared/publication-authorship-policy.md#14-misconduct).
+
+Because positions are unpaid, this is **not** a non-compete and does not bar a member from paid
+employment needed to earn a living — it is a **disclosure-and-approval** rule to protect against
+conflicts of interest and divided commitment. A member whose outside commitment is incompatible
+with the CHIRAL minimum-commitment expectation may be asked to choose.
+
 ## Consequences of Non-Compliance
 
 Failure to maintain the mandatory affiliation/promotion, or leaving before the committed term,
@@ -129,6 +206,7 @@ Because the position is unpaid, consequences draw on the levers the center contr
 | Affiliation/promotion not in place within 2 weeks, or removed while a member | Logged reminder → written warning → escalation per the accountability ladder. |
 | Repeated or willful refusal | Authorship review; recommendation/experience letter withheld; removal from the organization. |
 | Departure before the committed term without agreement | Forfeiture of authorship on work not yet meeting ICMJE criteria; no recommendation/experience letter; CHIRAL affiliation rights revoked; recorded as withdrawn. |
+| Undisclosed outside organization / commitment, or joining another research group without approval | Written warning and required disclosure → escalation per the accountability ladder; if CHIRAL data or work was shared, treated as misconduct and may result in removal and revoked affiliation. |
 | Claiming CHIRAL credit or work as one's own after leaving, or other ingratitude that misrepresents contribution | Treated as misconduct under the [Publication & Authorship Policy](/shared/publication-authorship-policy.md#14-misconduct). |
 
 These terms are acknowledged in writing as part of onboarding (see the onboarding agreement).
