@@ -1,6 +1,6 @@
 Table of Content
 ---
-- [Social Media Policies for BBL](#social-media-policies-for-bbl)
+- [Social Media Policies for CHIRAL](#social-media-policies-for-chiral)
     - [1. Purpose and Scope](#1-purpose-and-scope)
     - [2. Professional Conduct](#2-professional-conduct)
       - [a. Respect and Courtesy](#a-respect-and-courtesy)
@@ -15,6 +15,7 @@ Table of Content
     - [5. Social Media Promotion](#5-social-media-promotion)
       - [a. Alignment with Mission](#a-alignment-with-mission)
       - [b. Avoid Personal Opinions](#b-avoid-personal-opinions)
+      - [c. Mandatory Affiliation & Promotion](#c-mandatory-affiliation--promotion)
     - [6. Reporting Violations](#6-reporting-violations)
       - [a. Immediate Reporting](#a-immediate-reporting)
       - [b. Consequences](#b-consequences)
@@ -25,48 +26,57 @@ Table of Content
       - [d. Severe Violations](#d-severe-violations)
     - [8. Review and Update](#8-review-and-update)
 
-# Social Media Policies for BBL
+# Social Media Policies for CHIRAL
 
 ### 1. Purpose and Scope
-The purpose of these social media policies is to establish guidelines for the use of social media platforms by BBL team members. These policies apply to all individuals representing BBL on social media platforms, including but not limited to Messenger, WhatsApp, Telegram, and other similar platforms.
+The purpose of these social media policies is to establish guidelines for the use of social media platforms by CHIRAL team members. These policies apply to all individuals representing CHIRAL on social media platforms, including but not limited to Messenger, WhatsApp, Telegram, and other similar platforms.
 
 ### 2. Professional Conduct
 #### a. Respect and Courtesy
 All team members are expected to engage in respectful and courteous communication at all times. Avoid engaging in any form of online bullying, harassment, or disrespectful behavior.
 
 #### b. Confidentiality
-Do not disclose confidential information about BBL, its collaborators, or any ongoing research projects. Be mindful of the sensitive nature of health data and research findings.
+Do not disclose confidential information about CHIRAL, its collaborators, or any ongoing research projects. Be mindful of the sensitive nature of health data and research findings.
 
 #### c. Professional Tone
-Maintain a professional tone in all interactions. Avoid using offensive language or engaging in discussions that could reflect negatively on BBL.
+Maintain a professional tone in all interactions. Avoid using offensive language or engaging in discussions that could reflect negatively on CHIRAL.
 
 ### 3. Personal Inbox Usage
 #### a. Professional Purposes Only
 Team members should primarily use official email accounts for professional and work-related communication. Personal inboxes, including but not limited to Messenger, WhatsApp, Telegram, etc., should not be used for official work correspondence.
 
 #### b. Confidentiality
-Do not share confidential or proprietary information related to BBL through personal inboxes. Use official email channels for such communication.
+Do not share confidential or proprietary information related to CHIRAL through personal inboxes. Use official email channels for such communication.
 
 ### 4. Collaborative Research Communication
 #### a. Team Collaboration
 Encourage team collaboration through official channels. Share relevant research updates, articles, and information within the team.
 
 #### b. Permission for External Communication
-Seek permission from the appropriate authority within BBL before engaging in external communication on behalf of the organization.
+Seek permission from the appropriate authority within CHIRAL before engaging in external communication on behalf of the organization.
 
 ### 5. Social Media Promotion
 #### a. Alignment with Mission
-Ensure that all social media activities align with the mission and values of BBL. Promote the organization's goals, research findings, and positive contributions to public health.
+Ensure that all social media activities align with the mission and values of CHIRAL. Promote the organization's goals, research findings, and positive contributions to public health.
 
 #### b. Avoid Personal Opinions
-When representing BBL, refrain from expressing personal opinions that may be misinterpreted as official views of the organization.
+When representing CHIRAL, refrain from expressing personal opinions that may be misinterpreted as official views of the organization.
+
+#### c. Mandatory Affiliation & Promotion
+Publicly owning your CHIRAL affiliation is **mandatory** for all members, not optional:
+
+- **List your affiliation** on your **LinkedIn** and **Facebook** profiles as *"[Position], [Unit], CHIRAL, Bangladesh."* A member without one of these accounts must create a professional profile or obtain a written exception from the director — not having an account is not an automatic exemption.
+- **Follow and promote CHIRAL:** follow/like the center's official pages and **share the center's training and research activities** (events, posts, preprints, publications).
+- Comply **within 2 weeks of joining** and keep it current while you are a member.
+
+Non-compliance is handled under [Section 7](#7-degrees-of-punishment-for-violations) and the full terms in the [Center Guidelines → Appointment, Commitment & Affiliation](/shared/center-guidelines.md#appointment-commitment--affiliation).
 
 ### 6. Reporting Violations
 #### a. Immediate Reporting
-Any team member who observes or experiences a violation of these social media policies should report it promptly to the designated authority within BBL.
+Any team member who observes or experiences a violation of these social media policies should report it promptly to the designated authority within CHIRAL.
 
 #### b. Consequences
-Violations of these policies may result in disciplinary action, including but not limited to counseling, warnings, or termination of association with BBL.
+Violations of these policies may result in disciplinary action, including but not limited to counseling, warnings, or termination of association with CHIRAL.
 
 ### 7. Degrees of Punishment for Violations
 #### a. First Offense
@@ -79,12 +89,12 @@ A written warning will be issued for a repeated violation. The individual will b
 In cases of persistent violations, further disciplinary action will be taken, which may include suspension of social media privileges, temporary removal from specific responsibilities, or other appropriate measures.
 
 #### d. Severe Violations
-For severe violations that significantly impact BBL's reputation or compromise confidentiality, immediate termination of association with the organization may be considered. If the violation involves illegal activities, appropriate law enforcement authorities will be notified, and the organization will fully cooperate with any investigations.
+For severe violations that significantly impact CHIRAL's reputation or compromise confidentiality, immediate termination of association with the organization may be considered. If the violation involves illegal activities, appropriate law enforcement authorities will be notified, and the organization will fully cooperate with any investigations.
 
 ### 8. Review and Update
 These social media policies will be periodically reviewed and updated as needed. Team members will be notified of any changes to ensure compliance.
 
-By adhering to these social media policies, BBL aims to create a positive online presence and maintain the integrity of its mission in health data science, computational biology, and genomics.
+By adhering to these social media policies, CHIRAL aims to create a positive online presence and maintain the integrity of its mission in health data science, computational biology, and genomics.
 
 **Date of Implementation:** 4 January, 2025  
 **Review Date:** 4 January, 2027  

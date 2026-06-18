@@ -3,6 +3,10 @@
 Onboarding information for the **Center for Health Innovation, Research, Action, and Learning
 (CHIRAL), Bangladesh**.
 
+CHIRAL is the **research wing** of the DeepBio ecosystem (alongside **DeepBio Limited** and
+**DeepBio Academy**). This repository's policies apply to **CHIRAL only** — see
+[ECOSYSTEM.md](/ECOSYSTEM.md) for the full picture and what is shared vs. arm-specific.
+
 CHIRAL is organized into units. The policies in [`/shared`](/shared) are **center-wide** and
 apply to every member. Each unit adds a short **overlay** in [`/units`](/units) for matters
 specific to it (tech stack, data types, tools). Where an overlay conflicts with a shared

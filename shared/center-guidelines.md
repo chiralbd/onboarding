@@ -2,6 +2,11 @@ Table of Contents
 ---
 - [Mission Statement](#mission-statement)
   - [Expectations](#expectations)
+- [Appointment, Commitment & Affiliation](#appointment-commitment--affiliation)
+  - [Nature of the Position](#nature-of-the-position)
+  - [Minimum Commitment](#minimum-commitment)
+  - [Mandatory Affiliation & Promotion](#mandatory-affiliation--promotion)
+  - [Consequences of Non-Compliance](#consequences-of-non-compliance)
 - [Communication](#communication)
   - [General](#general)
     - [Meetings](#meetings)
@@ -60,6 +65,73 @@ Trainees in the CHIRAL will often receive opportunities to present their work at
 **Ethics:** We expect CHIRAL members to be honest in scientific communications both within and outside the team. We expect that CHIRAL members will design experiments/study in a manner that minimizes both bias and self deception. We expect that CHIRAL members will keep agreements, be careful, and share their code and results openly with the scientific community. We expect that credit will be given where credit is due, including in scientific writing. Plagiarism is not tolerated. While a full enumeration of ethical considerations is outside of the scope of this document, CHIRAL provides a [document](https://github.com/CHIRAL/onboarding/blob/main/CHIRAL%20Code%20of%20Conduct.pdf) that we recommend.
 
 In addition, please don't hesitate to raise any questions or concerns that you have at any point with the director.
+
+
+# Appointment, Commitment & Affiliation
+
+CHIRAL invests heavily in every member — mentorship, training, infrastructure, and the
+opportunity to earn authorship on real research. In return, the center expects genuine
+commitment and ownership. This section sets out the nature of the position and the
+non-negotiable expectations that come with it. These rules are strict by design.
+
+## Nature of the Position
+
+- All positions at CHIRAL — including **Research Assistant** and **Group Leader** — are
+  **voluntary and unpaid**. Membership is a research and training opportunity, **not
+  employment**. No salary, stipend, or financial benefit is offered or implied.
+- In exchange for your time, CHIRAL provides mentorship, training, access to infrastructure,
+  co-authorship on work you contribute to (per the
+  [Publication & Authorship Policy](/shared/publication-authorship-policy.md)), and — on
+  satisfactory completion — a recommendation/experience letter.
+- Because the position is unpaid, the center's accountability tools are limited to what it
+  controls: **authorship, recommendation/experience letters, continued membership, and your
+  CHIRAL affiliation.** These are earned, and they can be withheld or withdrawn.
+
+## Minimum Commitment
+
+- By accepting a position you commit to a **minimum active term of 18 months (1.5 years)**;
+  the **standard expected commitment is 2 years**.
+- "Active" means meaningfully contributing and meeting the participation and communication
+  expectations in the [Publication & Authorship Policy](/shared/publication-authorship-policy.md)
+  (attendance, timely communication, revision contribution).
+- **Authorship is contingent on honoring this commitment.** A member who leaves, or goes
+  inactive without the director's agreement, **before completing the committed term** forfeits
+  authorship on any work that does not yet independently meet all four
+  [ICMJE criteria](/shared/publication-authorship-policy.md#21-icmje-criteria) at the time of
+  departure. Such contributions are moved to the Acknowledgments.
+- Genuine, communicated reasons for early departure (illness, relocation, family, a paid job)
+  are handled case by case with the director. Silent disappearance is not.
+
+## Mandatory Affiliation & Promotion
+
+Public ownership of your CHIRAL affiliation is **mandatory**, not optional:
+
+- **List your affiliation** on your **LinkedIn** and **Facebook** profiles in the form
+  *"[Position], [Unit], CHIRAL, Bangladesh."* A member who does not have one of these accounts
+  must either create a professional profile or obtain a written exception from the director —
+  not having an account is not an automatic exemption.
+- **Follow and promote CHIRAL:** follow/like the center's official pages and **share the
+  center's training and research activities** (events, posts, preprints, publications) on your
+  profiles.
+- Comply **within 2 weeks of joining** and keep it current for as long as you are a member.
+- When an employer or collaborator requires it, add the personal-opinions disclaimer described
+  in the [Social Media Policy](/shared/social-media-policy.md).
+
+## Consequences of Non-Compliance
+
+Failure to maintain the mandatory affiliation/promotion, or leaving before the committed term,
+is treated as a participation lapse and follows the **accountability ladder** in the
+[Publication & Authorship Policy](/shared/publication-authorship-policy.md#11-accountability--penalty-ladder).
+Because the position is unpaid, consequences draw on the levers the center controls:
+
+| Situation | Consequence |
+|-----------|-------------|
+| Affiliation/promotion not in place within 2 weeks, or removed while a member | Logged reminder → written warning → escalation per the accountability ladder. |
+| Repeated or willful refusal | Authorship review; recommendation/experience letter withheld; removal from the organization. |
+| Departure before the committed term without agreement | Forfeiture of authorship on work not yet meeting ICMJE criteria; no recommendation/experience letter; CHIRAL affiliation rights revoked; recorded as withdrawn. |
+| Claiming CHIRAL credit or work as one's own after leaving, or other ingratitude that misrepresents contribution | Treated as misconduct under the [Publication & Authorship Policy](/shared/publication-authorship-policy.md#14-misconduct). |
+
+These terms are acknowledged in writing as part of onboarding (see the onboarding agreement).
 
 
 # Communication

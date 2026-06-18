@@ -169,6 +169,14 @@ anyone, since acknowledgment can imply endorsement. Funding sources and grant nu
 
 Early discussion prevents most disputes. Document decisions — informal agreements are not enough.
 
+**Minimum-commitment contingency.** CHIRAL positions are voluntary and carry a minimum active
+term (see [Center Guidelines → Appointment, Commitment & Affiliation](/shared/center-guidelines.md#appointment-commitment--affiliation)).
+A member who departs or goes inactive before completing that term, without the director's
+agreement, **forfeits authorship on any work that does not yet independently meet all four
+[ICMJE criteria](#21-icmje-criteria)** at the time of departure; such contributions move to the
+Acknowledgments. Completing the committed term does not by itself confer authorship — the ICMJE
+criteria must still be met.
+
 ---
 
 # 8. Preprints, Data, and Code
