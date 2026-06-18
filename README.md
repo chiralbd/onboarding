@@ -1,18 +1,36 @@
-# BigBio Lab Onboarding Repository 
+# CHIRAL Onboarding Repository
 
-This repository contains the onboarding information for Big Bioinformatics Lab.
+Onboarding information for the **Center for Health Innovation, Research, Action, and Learning
+(CHIRAL), Bangladesh**.
 
-- [Lab Guidelines](/lab-guidelines/README.md): This document outlines the expectations for lab members, including communication, meetings, and work-life balance.
-- [Good Practices](/good-practicies/README.md): This document provides best practices for lab members, including coding standards, documentation, and version control.
-- [Social Media Policy](/social-media-policy/README.md): This document outlines the expectations for lab members regarding social media use, including what to share and how to represent the lab.
-- [Github Guidelines](/github-basics/README.md): This document provides guidelines for using GitHub, including how to create issues, pull requests, and branches.
+CHIRAL is organized into units. The policies in [`/shared`](/shared) are **center-wide** and
+apply to every member. Each unit adds a short **overlay** in [`/units`](/units) for matters
+specific to it (tech stack, data types, tools). Where an overlay conflicts with a shared
+policy, the shared policy wins unless the director approves an exception.
 
+## Shared (center-wide) policies
+
+- [Center Guidelines](/shared/center-guidelines.md): expectations, communication, meetings, source code, data, and reproducibility.
+- [Publication & Authorship Policy](/shared/publication-authorship-policy.md): authorship criteria, author order, revision responsibilities, participation/attendance rules, and the accountability ladder.
+- [Data Governance Policy](/shared/data-governance.md): classification, ethics/consent, storage, de-identification, sharing, and breach handling for health data.
+- [Good Practices](/shared/good-practices.md): coding standards, reproducibility, documentation, version control.
+- [Social Media Policy](/shared/social-media-policy.md): expectations for representing CHIRAL online.
+- [GitHub Basics](/shared/github-basics.md): issues, pull requests, and branches.
+
+## Units
+
+- [Population Health Studies Division](/units/population-health/README.md)
+- [Geospatial Health Research Group](/units/geospatial-health/README.md)
+- [Big Bioinformatics Lab (BBL)](/units/big-bioinformatics-lab/README.md)
+- [BioHPC Lab](/units/biohpc-lab/README.md)
+- [BioAI Lab](/units/bioai-lab/README.md)
 
 ## Contributing
-To propose a change, submit a pull request. Consider the following goals of the onboarding document:
+
+To propose a change, submit a pull request. Consider the following goals of the onboarding documents:
 
 - **Simple**: Use straightforward language and avoid jargon.
-- **Concise**: The document should be readable in a single sitting.
-- **Specific**: It should be targeted to CHIRAL Bangladesh.
+- **Concise**: Each document should be readable in a single sitting.
+- **Specific**: It should be targeted to CHIRAL, Bangladesh.
 - **Enforceable**: Failure to meet expectations should have consequences.
-- **Living**: The document is expected to evolve over time
+- **Living**: The documents are expected to evolve over time.
