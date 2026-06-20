@@ -16,6 +16,7 @@ policy, the shared policy wins unless the director approves an exception.
 
 - [Center Guidelines](/shared/center-guidelines.md): expectations, communication, meetings, source code, data, and reproducibility.
 - [Publication & Authorship Policy](/shared/publication-authorship-policy.md): authorship criteria, author order, revision responsibilities, participation/attendance rules, and the accountability ladder.
+- [Recruitment Policy](/shared/recruitment-policy.md): how Research Assistants and Group Leaders are recruited — required DeepBio Academy course per unit, interview, and selection.
 - [Data Governance Policy](/shared/data-governance.md): classification, ethics/consent, storage, de-identification, sharing, and breach handling for health data.
 - [Good Practices](/shared/good-practices.md): coding standards, reproducibility, documentation, version control.
 - [Social Media Policy](/shared/social-media-policy.md): expectations for representing CHIRAL online.

@@ -16,6 +16,12 @@ documents win unless the director approves an exception.
 
 ---
 
+## Entry Requirement
+
+Recruitment requires successful completion of the **The Academic Research Workflow** course at
+DeepBio Academy, followed by interview and selection — see the
+[Recruitment Policy](/shared/recruitment-policy.md).
+
 ## Tech Stack
 
 - **Languages:** Python (GeoPandas, rasterio, shapely) and/or R (sf, terra). Reproducible

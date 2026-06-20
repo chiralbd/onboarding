@@ -17,6 +17,12 @@ documents win unless the director approves an exception.
 
 ---
 
+## Entry Requirement
+
+Recruitment requires successful completion of the **No Code and Agentic AI for Life Sciences**
+course at DeepBio Academy, followed by interview and selection — see the
+[Recruitment Policy](/shared/recruitment-policy.md).
+
 ## Tech Stack
 
 - **Languages:** Python primarily. Frameworks: PyTorch (default), plus the scientific ML stack

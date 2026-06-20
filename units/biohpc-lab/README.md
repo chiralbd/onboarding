@@ -17,6 +17,12 @@ documents win unless the director approves an exception.
 
 ---
 
+## Entry Requirement
+
+Recruitment requires successful completion of the **Bioinformatics Mentorship** course at
+DeepBio Academy, followed by interview and selection — see the
+[Recruitment Policy](/shared/recruitment-policy.md).
+
 ## Tech Stack
 
 - **Languages:** Python, R, and shell; C/C++ or compiled tools where performance demands it.
